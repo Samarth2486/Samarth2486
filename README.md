@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Samarth2486&label=Profile%20views&color=0e75b6&style=flat" alt="Samarth2486" /> </p>
 
-- 😄 Pronouns: He/Him
-
 - 🌟 Currently working on: Learning Data structures & Algorithms and Back-end Development.
 
 - 💌 How to reach me: **samarthapj@gmail.com**
