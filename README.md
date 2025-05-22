@@ -42,5 +42,3 @@
 <a href="https://leetcode.com/bitwarrior3a5"><img width="395px" align="center" alt="LeetCode stats" src="https://leetcard.jacoblin.cool/bitwarrior3a5?ext=contest"/></a>
 </p>
 </div>
-
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
