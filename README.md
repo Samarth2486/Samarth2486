@@ -6,7 +6,7 @@
 
 - 🌟 Currently working on: Learning Data structures & Algorithms and Back-end Development.
 
-- 💌 How to reach me: **samarthapj@gmail.com**
+- 🏢 How to reach me: **samarthapj@gmail.com**
 
 - 🤝 Confident in front-end development, with a focus on creating clean and interactive user experiences.
 - 🏡 Delhi/Hyderabad
