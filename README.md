@@ -10,7 +10,7 @@
 
 - 💌 How to reach me: **samarthapj@gmail.com**
 
-- 🤝 Open to collaborate on Full Stack & ML Projects
+- 🤝 Confident in front-end development, with a focus on creating clean and interactive user experiences.
 - 🏡 Hyderabad/Delhi
 
 <a href="#" target="_blank">
