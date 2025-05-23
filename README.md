@@ -1,6 +1,6 @@
 <div>
 <h1 align="center">Hey there, I'm M.Samarth.</h1>
-<h3 align="center">Currently focused on mastering Data Structures & Algorithms and building expertise in Back-end Development.</h3>
+<h3 align="center">A Computer science student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Samarth2486&label=Profile%20views&color=0e75b6&style=flat" alt="Samarth2486" /> </p>
 
