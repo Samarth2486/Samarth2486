@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Samarth2486&label=Profile%20views&color=0e75b6&style=flat" alt="Samarth2486" /> </p>
 
-- 🌟 Currently working on: Learning Data structures & Algorithms and Back-end Development.
+- 🌟 Currently focused on mastering Data Structures & Algorithms and building expertise in Back-end Development.
 
-- 🏢 How to reach me: **samarthapj@gmail.com**
+- 🏢 How to reach me: **m.samarth.ug22@nsut.ac.in**
 
 - 🤝 Confident in front-end development, with a focus on creating clean and interactive user experiences.
 - 🏡 Delhi/Hyderabad
