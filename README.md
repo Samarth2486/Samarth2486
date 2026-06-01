@@ -6,12 +6,12 @@
 
 - 🌟 Currently focused on mastering Data Structures & Algorithms and building expertise in Back-end Development.
 
-- 🏢 How to reach me: **m.samarth.ug22@nsut.ac.in**
+- 🏢 How to reach me: **samarthapj@gmail.com**
 
 - 🤝 Confident in front-end development, with a focus on creating clean and interactive user experiences.
 - 🏡 Delhi/Hyderabad
 
-<a href="#" target="_blank">
+<!-- <a href="#" target="_blank">
 <table align="right">
   <tr>
     <td>
@@ -19,7 +19,7 @@
     </td>
   </tr>
 </table>
-</a>
+</a> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,7 +37,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Samarth2486&" alt="Samarth2486" /></p>
 
-<p>
+<!-- <p>
 <a href="https://leetcode.com/bitwarrior3a5"><img width="395px" align="center" alt="LeetCode stats" src="https://leetcard.jacoblin.cool/bitwarrior3a5?ext=contest"/></a>
-</p>
+</p> -->
 </div>
